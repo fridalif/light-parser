@@ -1,2 +1,2 @@
 # light-parser
-Crossplatform DFIR triages parser
+Crossplatform DFIR artifacts parser
